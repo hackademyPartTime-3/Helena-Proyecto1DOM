@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+}
+ .titulo{
+    font-family: 'Taviraj', serif;
+
+} 
+.titulos{
+    font-family: 'Uchen', serif;
+}
+
+.altura_nav{
+    height: 80px ;
+     background-color: #5b6972;
+    background-image: linear-gradient(315deg, #505b62 0%, #6a6c98 100%);
+    
+}
+
+.titulo_div{
+    height:80vh;
+   background:url(./img/fondo1.jpg); 
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+.titulo{
+color: antiquewhite;
+}
+
+.masvendido{
+    width: 100%;
+    display: flex;
+    background-image: linear-gradient(315deg, #505b62 0%, #6a6c98 100%);
+
+}
+.fondo_card{
+    background-color: #463740;
+background-image: linear-gradient(225deg, #aa1d6e 0%, #3b517d 50%, #353a3d 100%);
+
+color: antiquewhite;
+font-family: 'Taviraj', serif;
+
+}
+
